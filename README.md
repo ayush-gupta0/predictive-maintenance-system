@@ -1,7 +1,7 @@
 # 🏭 Automated MLOps Pipeline for Predictive Maintenance 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictive-maintenance-system-01.streamlit.app)
-[![MLflow Tracking](https://img.shields.io/badge/MLflow-Tracking-blue?logo=mlflow)](PASTE_YOUR_DAGSHUB_MLFLOW_LINK_HERE)
+[![MLflow Tracking](https://img.shields.io/badge/MLflow-Tracking-blue?logo=mlflow)](https://dagshub.com/ayush-gupta0/predictive-maintenance-system/experiments#/experiment/m_7cd691417ed34569a396d29839ea1bb6)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Project Overview
