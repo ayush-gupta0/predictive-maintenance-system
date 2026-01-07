@@ -1,0 +1,4 @@
+mlo-env/
+.env
+__pycache__/
+data/machine_data.csv
